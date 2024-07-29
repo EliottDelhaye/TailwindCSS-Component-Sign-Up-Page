@@ -32,4 +32,4 @@ To use this sign-up component in your project, copy the HTML and CSS from the `s
 
 ## Access
 
-You can view a live demo of the sign-up component here:
+You can view a live demo of the sign-up component here: https://eliottdelhaye.github.io/ailwindCSS-Component-Sign-Up-Page/
